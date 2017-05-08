@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">NFC Tag</string>
+
+    <string name="button_Write">Write to tag</string>
+    <string name="button_Read">Read from tag</string>
+</resources>
